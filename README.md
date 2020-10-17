@@ -1,7 +1,7 @@
 # Recommendation_Engine_UpSchool_CapstoneProject
 Content Based &amp; Collaborative Filtering with Trendyol 
 
-![alt tag](https://user-images.githubusercontent.com/54555527/96351859-17dfa080-10c7-11eb-9adc-e14b9f46663a.JPG)
+![alt tag](https://user-images.githubusercontent.com/54555527/96352767-b02d5380-10ce-11eb-8910-5d70a49a8a26.JPG)
  
 Popularity due to a comfortable and effective online shopping experience provides companies additional data to improve their sales and costumer satisfaction. Particularly during this Covid-19 Pandemic, demand for purchasing online is on the rise.
 
@@ -12,4 +12,9 @@ In this notebook, I worked with purchasing data from one of Turkey's biggest e-t
 In this notebook, the 2 most popular recommendation filtering systems were applied.
 
  -Content Based Filtering System
+ 
  -Collaborative Filtering System
+
+![alt tag](https://user-images.githubusercontent.com/54555527/96352745-5f1d5f80-10ce-11eb-909f-15128c08db7c.gif)
+
+![alt tag](https://user-images.githubusercontent.com/54555527/96352743-5cbb0580-10ce-11eb-9008-70da8521203c.gif)

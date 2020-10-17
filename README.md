@@ -1,5 +1,5 @@
 # Recommendation_Engine_UpSchool_CapstoneProject
-Content Based &amp; Collaborative Filtering with Trendyol 
+Content Based &amp; Collaborative Filtering 
 
  <img src="https://user-images.githubusercontent.com/54555527/96352767-b02d5380-10ce-11eb-8910-5d70a49a8a26.JPG" width="200" height="200"> https://www.upschool.io/      
  

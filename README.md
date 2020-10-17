@@ -14,6 +14,8 @@ In this notebook, the 2 most popular recommendation filtering systems were appli
  -Content Based Filtering System
  
  -Collaborative Filtering System
+ 
+ This is a demo  of the outputs of the project made with streamlit. 
 
 ![alt tag](https://user-images.githubusercontent.com/54555527/96352745-5f1d5f80-10ce-11eb-909f-15128c08db7c.gif)
 
